@@ -2,64 +2,85 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2026-01/2026-01-02
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-01/2026-01-03
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI Daily News January 3, 2026
 
-> AI Insights | Daily Morning Read | Aggregated Web Data | Frontier Science Exploration | Industry Voice | Open-Source Innovation | AI and Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/1/4
 
-### **Today's Rundown**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
+
+### **今日摘要**
 
 ```
-Tesla integrates Grok vision for in-car robots
-DeepSeek launches mHC architecture for stable training with less VRAM
-DAVE model revolutionizes complex document visual understanding
-DeepMind predicts AI will achieve immortality by 2026
-SentientAGI open-sources the ROMA agent framework
+谷歌演示Gemini 3 Flash自动化ETL清洗
+IQuest-Coder代码模型涉嫌训练集作弊
+百度昆仑芯冲刺港股IPO估值两百亿
+字节跳动开源Dolphin多模态文档解析
+杨立昆离职痛批大模型已触及天花板
 ```
 
-### Frontier Research
 
-1.  **DeepSeek founder Liang Wenfeng** dropped a 🔥major new [mHC Architecture Paper](https://www.jiqizhixin.com/articles/2026-01-02-7) on New Year's Day. The team tackled instability in **large model training** with their manifold-constrained hyperconnection tech. By projecting matrices onto doubly stochastic manifolds, they ensured signal propagation's ⚡energy conservation. This move not only nixed numerical explosion issues but also slashed memory overhead! 💾
 
-2.  **The DAVE model** is specifically designed for complex document visual understanding. Tired of VLM vision encoders that just can't get complex layouts? The [DAVE model](https://arxiv.org/abs/2512.17221) is your new go-to [Vision Expert]! 😎 It's built for document understanding and web agents, no longer relying on pricey, massive labeled datasets. With self-supervised pre-training, DAVE absolutely 🚀 crushes parsing tasks, filling a crucial gap left by general vision encoders.
 
-3.  **SpaceTimePilot** is pulling off some insane video spatio-temporal decoupling! Ever wanted to totally control camera movement 🎥 and timing in your videos? Well, SpaceTimePilot delivers with mind-blowing [Spatio-Temporal Decoupling](https://arxiv.org/abs/2512.25075). You can tweak camera angles or adjust the speed of 🏃actions independently, with zero interference. This generative rendering tech makes exploring dynamic scenes feel absolutely ✨ seamless!
 
-### Industry Outlook & Social Impact
+### 行业展望与社会影响
 
-1.  **DeepMind** is calling it: AI will achieve immortality by 2026! Google's DeepMind just dropped a bombshell 🔮prediction that 2026 will mark the start of [Continual Learning](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652659818&idx=1&sn=a4d07f563f7c94e7c06de7d4bc1a10a4), meaning AI will never, ever forget. But wait, there's more! Some forecasts even suggest that by 2030, **fully automated programming** will totally ⚡replace human devs. And by 2050? AI might even snag 🏆all the Nobel Prize-level research. The ⏳countdown for humans to hand over scientific leadership to AI has officially begun. 😬
+1. **百度昆仑芯冲刺港股IPO。**
+百度旗下昆仑芯🚀冲刺[港股IPO(AI资讯)](https://www.qbitai.com/2026/01/366454.html)。估值已达💰210亿元人民币。比亚迪等巨头🤝参与了相关投资。AI芯片📦出货量位居国产第二。旨在独立融资以(ง •_•)ง对抗英伟达。
 
-2.  **Luo Zhenyu's** New Year's Eve speech stirred up quite a buzz, with many calling it a classic [Straussian Meme](https://x.com/dotey/status/2006887867197354351). What looks like a 💪life guide for the AI age is actually a super-slick **commercial monetization** system. This info architecture totally preys on 😰anxiety and identity, making it tough for the audience to pull away. Regular folks see a glimmer of hope, but the sharp cookies? They see a big ol' 📦harvesting sickle.
-<br/>![AI News: Straussian Meme Analysis Infographic](https://source.hubtoday.app/images/2026/01/news_01kdzmc7cket9b25z62w7tpw11.avif)<br/>
+2. **杨立昆离职后怒喷扎克伯格。**
+杨立昆离开Meta后🔥火力全开。他痛批小扎🤖搞虚假基准测试。直言大语言模型🧱已触及天花板。内部研究员(Xs)对他十分反感。认为Meta并非😨理想的归宿。[查看访谈细节(AI资讯)](https://m.okjike.com/originalPosts/6958b5620d0cd914a814f5c5)<br/><br/>![AI资讯：杨立昆接受访谈画面](https://source.hubtoday.app/images/2026/01/news_01ke25xqnjf549sj90asfwjfe0.avif)<br/>
 
-### Top Open-Source Projects
+3. **2025年LLM发展年度回顾。**
+2025年AI变得🧠更聪明且昂贵。推理模型与Agent🤖成为行业标配。CLI命令行(💻)重新成为开发主战场。中国模型🇨🇳打破美国技术垄断。开发者为效率往往🙈忽视安全红线。[阅读年度回顾(AI资讯)](https://x.com/shao__meng/status/2007110456562057724)
 
-1.  **SentientAGI** just open-sourced their 🔥killer meta-agent framework! The SentientAGI team launched the high-performance [ROMA Framework](https://github.com/sentient-agi/ROMA), which totally crushes recursive task decomposition. Think of it like an AI project manager, breaking down massive tasks for little 👶sub-agents to handle in parallel. This genius architecture tackles the dreaded 💾context overflow problem in long-chain reasoning head-on.
-<br/>![AI News: ROMA Agent Framework Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kdzmcbmwfs0944637nna4cgc.avif)<br/>
+4. **IQuest-Coder代码模型深陷作弊争议。**
+IQuest-Coder号称🔥超越Claude与GPT-5。这是一个40B参数的[开源代码模型(AI资讯)](https://newshacker.me/story?id=46472667)。社区发现⚠️仓库包含未清理.git文件。训练数据疑似🚫包含测试集答案。这种benchmaxxing(¬_¬)引发广泛质疑。SWE-bench已紧急🛠️发布修复更新。
 
-2.  **NewsNow** is a slick real-time news reader. This ⭐1.5k-star [Real-time News Tool](https://github.com/ourongxing/newsnow) is all about delivering an elegant reading experience. It's your secret weapon to quickly snag hot topics from the overwhelming 🌁 deluge of info out there.
+### 开源TOP项目
 
-3.  **Memos** is a sweet self-hosted note service. This ⭐48.5k-star [Lightweight Notes](https://github.com/usememos/memos) is all about zero privacy tracking. It's 100% open-source and (get this!) totally free forever, putting you completely in charge of your data. 💪
+1. **字节跳动开源多模态文档解析。**
+字节跳动开源了🐬[Dolphin文档解析(AI资讯)](https://x.com/shao__meng/status/2007442206509179221)。专攻复杂布局与📑多模态文档处理。通过异构锚提示⚓提升解析精度。支持表格与公式的🔢精准识别。将PDF转化为Markdown📝只需瞬间。<br/><br/>![AI资讯：Dolphin项目解析文档演示](https://source.hubtoday.app/images/2026/01/news_01ke25y0m3eweb5pee9frvvcn4.avif)<br/>
 
-### Social Media Shares
+2. **Pathway：Python实时流处理框架。**
+这是一个用于🌊流处理的[Python框架(AI资讯)](https://github.com/pathwaycom/pathway)。支持实时分析与⚡RAG管道构建。专为LLM应用🏗️设计的数据处理。GitHub斩获⭐55.8k的高关注。
 
-1.  **A tech bigwig** is shouting out a must-watch deep interview! Developer Tw93 just gave a huge shout-out to a 📺super insightful [Interview Video](https://x.com/HiTw93/status/2007088939442880643), which dives deep into tech monetization. The video's star, Ji Yichao, was incredibly down-to-earth, dropping some unique takes on 💰commercialization and hot new tech. This is seriously (💡) inspiring for any tech pro trying to figure out their next move.
+3. **OpenBB：AI时代的金融数据平台。**
+面向AI智能体的📈[金融数据平台(AI资讯)](https://github.com/OpenBB-finance/OpenBB)。服务于量化交易员💰与数据分析师。提供开源的(🌐)投资研究工具。GitHub星数高达⭐56.2k。
 
-2.  **Tesla** is hooking up with Grok's vision! Tesla is now 🚗integrating the Grok model, and get this: Grok can already tap into the [In-car Cameras](https://x.com/imxiaohu/status/2006927289267925133) to check out its surroundings in real-time. This is a massive leap in 👀visual perception, not just for driving, but it also screams that the Optimus humanoid robot might be in (✧∀✧) full-on, crazy testing mode. This multimodal tech landing means **physical world interaction** is about to get way, way smarter.
-<br/>
-<video src="https://source.hubtoday.app/images/2026/01/news_01kdzmd3pafenbehmtke8b6gz7.mp4" controls="controls" width="100%"></video>
-<br/>
+### 社媒分享
+
+1. **菜鸟程序员四个月烧掉30亿Token。**
+作者利用AI🔥烧掉[30亿Token(AI资讯)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010258&idx=1&sn=761843ddd675d6c023bcdefb481b2f1d)。四个月内(🕒)构建50多个产品。全程使用CLI与🤖AI智能体协作。证明编程是(🎮)即时策略游戏。以探索欲望🔑取代专业背景。<br/><br/>![AI资讯：Ben Tossell使用AI编程](https://source.hubtoday.app/images/2026/01/news_01ke25y7defj085bn0pxhqetta.avif)<br/>
+
+2. **谷歌工程师被Claude Code效率折服。**
+谷歌工程师🤯被Claude Code[效率震惊(AI资讯)](https://x.com/shao__meng/status/2007305311313412386)。一小时完成团队🕒一年的工作量。指出大公司🏢决策流程的低效。未来属于(1+N)的人机🤖协作模式。
+
+3. **Claude Code作者公开个人工作流。**
+Claude Code作者🛠️公开[个人工作流(AI资讯)](https://x.com/op7418/status/2007346127956500626)。同时运行15个🤖Claude实例并行。通过.md文件📝积累团队知识库。强调Plan模式与📅先规划后执行。验证反馈能让💡质量提升数倍。<br/><br/>![AI资讯：Boris Cherny的工作流设置](https://source.hubtoday.app/images/2026/01/news_01ke25ykykefp9hmzm7xd03w4k.avif)<br/>
+
+4. **LangChain团队Deep Agents评估心得。**
+LangChain分享了🧐[Deep Agents评估(AI资讯)](https://x.com/shao__meng/status/2007446168620400722)。建议对每个数据点🎯定制测试逻辑。单步评估能(⚡)及早捕捉回归问题。强调多轮对话的🗣️真实模拟。环境设置对于🧹复现至关重要。<br/><br/>![AI资讯：LangChain评估架构图](https://source.hubtoday.app/images/2026/01/news_01ke25ysg8f2fvbrcw6d121beq.avif)<br/>
+
+5. **用好AI的十件关键小事。**
+博主分享用好AI的🔟件[关键建议(AI资讯)](https://m.okjike.com/originalPosts/6958c619f7b0b259ded22ce3)。建议先拆解🔄个人工作流。维护一份(📜)沟通规范文件。定期清理🗑️AI生成的冗余信息。学习项目管理📅以交付成果。
+
+6. **Gemini 3 Flash自动化ETL演示。**
+谷歌演示了⚡极速的[Gemini 3 Flash(AI资讯)](https://x.com/googleaidevs/status/2007135019114836240)模型能力。该模型能瞬间完成🧹数据清洗与ETL流程。利用推理能力🧠自动解决源数据冲突。展示了惊人的(✧∀✧)实时处理速度。全自动化管道🚀彻底改变手工工作流。
 
 ---
 
-## **AI Daily News Voice Edition**
+## **AI资讯日报语音版**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
